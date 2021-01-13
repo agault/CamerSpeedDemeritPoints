@@ -11,7 +11,7 @@ namespace CamerSpeedDemeritPoints
             //cr as var speed
             var userSpeed = Convert.ToDecimal(Console.ReadLine());
 
-            //if < var speed limit cw"great job not going over the speed limit"
+            //if < var speed limit cw"great job not going over the speed limit".
             if (userSpeed <= 60)
             {
                 Console.WriteLine("Carry on there Sooper Trooper");
