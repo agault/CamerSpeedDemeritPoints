@@ -26,27 +26,27 @@ namespace CamerSpeedDemeritPoints
                 {
                     Console.WriteLine("You're close so I'll let you off with a warning");
                 }
-                else if (1<=points ==true & points<2)
+                else if (1<=points & points<2)
                 {
                     Console.WriteLine("That will be one demerit point");
                 }
-                else if (2 <= points == true & points < 3)
+                else if (2 <= points & points < 3)
                 {
                     Console.WriteLine("That will be two demerit point");
                 }
-                else if (3 <= points == true & points < 4)
+                else if (3 <= points & points < 4)
                 {
                     Console.WriteLine("That will be three demerit point");
                 }
-                else if (4 <= points == true & points < 5)
+                else if (4 <= points  & points < 5)
                 {
                     Console.WriteLine("That will be four demerit point");
                 }
-                else if (6 <= points == true & points < 6)
+                else if (6 <= points  & points < 6)
                 {
                     Console.WriteLine("That will be five demerit point");
                 }
-                else if (6 <= points == true & points <7)
+                else if (6 <= points  & points <7)
                 {
                     Console.WriteLine("That will be six demerit point");
                 }
